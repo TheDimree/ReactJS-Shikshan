@@ -1,0 +1,17 @@
+Link: https://www.youtube.com/watch?v=WbV3zRgpw_E&list=PLjwm_8O3suyMMs7kfDD-p-yIhlmEgJkDj&index=2
+
+@2:25:32
+
+Fonts: https://fonts.google.com/specimen/Outfit
+
+Web3forms: https://web3forms.com/
+
+React Concepts: 
+1. useState
+2. useEffect
+3. Props
+4. useRef
+5. Slider
+
+CSS Concepts: 
+1. 
